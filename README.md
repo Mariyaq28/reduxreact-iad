@@ -2,7 +2,7 @@
 
 A **Redux-powered Simple Calculator** built using **React** and **Redux Toolkit**. This app performs basic arithmetic operations and uses Redux for state management to handle the input, operations, and display logic.
 
-![App Screenshot](./reduxr.png)
+🚀 Live Demo 👉 https://reduxreact-iad.netlify.app
 
 ## 🌟 Features
 - 🔢 Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
