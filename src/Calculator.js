@@ -16,17 +16,15 @@ function Calculator() {
    </div>
       
       <div className="display">{input}</div>
-      <div className="buttons">
-        <button onClick={() => dispatch(clearInput())}>C</button>
-        {[1,2,3,'+',4,5,6,'-',7,8,9,'*',0,'.','='].map((btn, i) => (
-          <button
-            key={i}
-            onClick={() => btn === '=' ? dispatch(calculateResult()) : dispatch(inputDigit(btn))}
-          >
-            {btn}
-          </button>
-        ))}
-      </div>
+<div className="buttons">
+  <button onClick={() => dispatch(clearInput())}>C</button>
+  {[1, 2, 3, '+', 4, 5, 6, '-', 7, 8, 9, '*', 0, '.', '/', '='].map((btn, i) => (
+    <button key={i} onClick={() => btn === '=' ? dispatch(calculateResult()) : dispatch(inputDigit(btn))}>
+      {btn}
+    </button>
+  ))}
+</div>
+
     </div>
   );
 }
