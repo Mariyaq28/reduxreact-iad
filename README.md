@@ -20,18 +20,18 @@ A **Redux-powered Simple Calculator** built using **React** and **Redux Toolkit*
 
 1. **Clone the Repository**
 
-   git clone https://github.com/Mariyaq28/reduxreact-iad.git
+   git clone https://github.com/your-username/simple-calculator-redux.git
+   
    cd simple-calculator-redux
 
-
-2. **Install Dependencies**
+3. **Install Dependencies**
    Ensure you have **Node.js** installed, then run:
 
 
    npm install
  
 
-3. **Start the Development Server**
+4. **Start the Development Server**
    Run the following command to start the app:
 
 
