@@ -55,3 +55,4 @@ A **Redux-powered Simple Calculator** built using **React** and **Redux Toolkit*
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it for personal or commercial purposes.
 
+![App Screenshot](./reduxr.png)
