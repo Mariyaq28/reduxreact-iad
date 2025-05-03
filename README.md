@@ -2,6 +2,8 @@
 
 A **Redux-powered Simple Calculator** built using **React** and **Redux Toolkit**. This app performs basic arithmetic operations and uses Redux for state management to handle the input, operations, and display logic.
 
+![App Screenshot](./reduxr.png)
+
 ## 🌟 Features
 - 🔢 Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
 - 💡 Real-time display updates using Redux state
@@ -55,4 +57,4 @@ A **Redux-powered Simple Calculator** built using **React** and **Redux Toolkit*
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it for personal or commercial purposes.
 
-![App Screenshot](./reduxr.png)
+
